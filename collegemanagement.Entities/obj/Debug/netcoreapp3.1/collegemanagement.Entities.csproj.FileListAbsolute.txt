@@ -1,0 +1,10 @@
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\bin\Debug\netcoreapp3.1\collegemanagement.Entities.deps.json
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\bin\Debug\netcoreapp3.1\collegemanagement.Entities.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\bin\Debug\netcoreapp3.1\collegemanagement.Entities.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.csproj.AssemblyReference.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.AssemblyInfoInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.AssemblyInfo.cs
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.Entities\obj\Debug\netcoreapp3.1\collegemanagement.Entities.pdb

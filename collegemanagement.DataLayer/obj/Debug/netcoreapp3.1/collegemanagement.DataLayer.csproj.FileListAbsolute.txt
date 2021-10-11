@@ -1,0 +1,16 @@
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.deps.json
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.Entities.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.Entities.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.AssemblyInfo.cs
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.csproj.CopyComplete
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.runtimeconfig.json
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.runtimeconfig.dev.json
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.DataLayer\obj\Debug\netcoreapp3.1\collegemanagement.DataLayer.genruntimeconfig.cache

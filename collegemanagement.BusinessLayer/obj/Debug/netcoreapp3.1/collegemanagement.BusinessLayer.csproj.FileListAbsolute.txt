@@ -1,0 +1,15 @@
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.deps.json
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.csproj.AssemblyReference.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.AssemblyInfoInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.AssemblyInfo.cs
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.Entities.dll
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.DataLayer.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\bin\Debug\netcoreapp3.1\collegemanagement.Entities.pdb
+D:\IIHT DATA\SQLCURD\collegemanagement\collegemanagement.BusinessLayer\obj\Debug\netcoreapp3.1\collegemanagement.BusinessLayer.csproj.CopyComplete
